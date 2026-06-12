@@ -1,1 +1,1 @@
-print("quien ganara keiko o Jp, los rumores dicen keiko, esta confirmado")
+print("quien ganara keiko o Jp, los rumores dicen keiko, esta confirmadoo")
